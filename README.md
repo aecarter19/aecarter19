@@ -8,3 +8,10 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am an avid animal rescuer! I often have a foster or two up for adoption at any given time. 
 
+| Rank | Skills|
+| -----:| ---------|
+|   1   | Excel |
+|   2   | PowerBI |
+|   3   | Data Analysis |
+|   4   | Microsoft Office |
+|   5   | SQL |
