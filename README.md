@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning some more technical skills, including working on projects with GitHub!
+## - 🌱 I’m currently learning some more technical skills, including working on projects with GitHub!
 - 👯 I’m looking to collaborate on novice projects.
 - 🤔 I’m looking for help with learning the basics.
 - 💬 Ask me about data analytics! I am an expert in Excel and an advanced PowerBI user. 
