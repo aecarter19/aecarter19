@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on novice projects.
 - 🤔 I’m looking for help with learning the basics.
 - 💬 Ask me about data analytics! I am an expert in Excel and an advanced PowerBI user. 
-- 📫 How to reach me: Questions? Comments? Job Opportunities? You can reach me via email at alexcarter549@gmail.com
+- 📫 How to reach me: Questions? Comments? Job Opportunities? You can reach me via email at alexcarter549@gmail.com.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am an avid animal rescuer! I often have a foster or two up for adoption at any given time. 
 
