@@ -17,5 +17,5 @@
 |   5   | SQL |
 
 ### Google Analytics Certification
-![Google Analytics Certification](Images/Google%20Analytics%20Certification.png)
+![Google Analytics Certification](Images/Google_Analytics_Certification.png)
 
