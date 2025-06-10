@@ -15,3 +15,7 @@
 |   3   | Data Analysis |
 |   4   | Microsoft Office |
 |   5   | SQL |
+
+### Google Analytics Certification
+![Google Analytics Certification](Images/Google%20Analytics%20Certification.png)
+
