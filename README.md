@@ -17,7 +17,7 @@
 |   5   | SQL |
 
 ### Google Analytics Certification
-<img width="736" alt="Google Analytics Certification" src="https://github.com/user-attachments/assets/3ca93d63-4df0-4d88-8e5a-80a9814b142e" />
+<img width="400" alt="Google Analytics Certification" src="https://github.com/user-attachments/assets/3ca93d63-4df0-4d88-8e5a-80a9814b142e" />
 
 
 
